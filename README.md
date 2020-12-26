@@ -1,0 +1,2 @@
+# Explore_US_Bikeshare_Data
+In This Project I will use a Python to Explore Data for Bikeshare system in three cities in United State (Chicago, New York City, Washington) , I will import Data from 3 files contain all details for the system on the three cites , user will chose variable of city, month, week to display the data selected as output to have a pref about customer of project  and some details .
